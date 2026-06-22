@@ -1,0 +1,4 @@
+Timestamp,Date,Time,Technician,Lab,Plot,Seed Sample,Humidity (g/m³),Light (klx),Temperature (°C),Equipment Fault,Plants,Blossoms,Fruit,Min Height (cm),Max Height (cm),Median Height (cm),Notes
+2026-06-22 20:46:43,2026-06-22,,,A,,,0.0,0.0,0.0,False,0,0,0,0.0,0.0,0.0,sdfsdf
+2026-06-22 20:48:30,2026-06-22,,,A,,,0.0,0.0,0.0,False,0,0,0,0.0,0.0,0.0,sdfsd sdf sdf 55
+2026-06-22 20:48:42,2026-06-22,,,A,,,0.0,0.0,0.0,False,0,0,0,0.0,0.0,0.0,sdfsd sdf sdf 55 666
